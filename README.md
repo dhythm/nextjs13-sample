@@ -5,6 +5,17 @@
 ```bash
 npx create-next-app@latest --ts
 ✔ What is your project named? … sample-nextjs13
+
+cd sample-nextjs13
+
+# Styling
+npm install classnames
+
+npm install -D tailwindcss autoprefixer postcss
+touch postcss.config.js
+touch tailwind.config.js
+
+npm install -D sass
 ```
 
 ## Getting Started
