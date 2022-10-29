@@ -16,6 +16,8 @@ touch postcss.config.js
 touch tailwind.config.js
 
 npm install -D sass
+
+npm install gray-matter
 ```
 
 ## Getting Started
