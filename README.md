@@ -10,14 +10,14 @@ cd sample-nextjs13
 
 # Styling
 npm install classnames
-
 npm install -D tailwindcss autoprefixer postcss
 touch postcss.config.js
 touch tailwind.config.js
-
 npm install -D sass
 
 npm install gray-matter
+npm install remark remark-html
+npm install date-fns
 ```
 
 ## Getting Started
