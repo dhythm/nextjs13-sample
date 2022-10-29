@@ -1,3 +1,4 @@
+// https://nextjs.org/blog/next-13#server-components
 async function getData() {
   const res = await fetch("https://jsonplaceholder.typicode.com/todos/1", {
     cache: "no-cache",
