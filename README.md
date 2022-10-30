@@ -1,12 +1,12 @@
-# sample-nextjs13
+# nextjs13-sample
 
 ## Create the environment
 
 ```bash
 npx create-next-app@latest --ts
-✔ What is your project named? … sample-nextjs13
+✔ What is your project named? … nextjs13-sample
 
-cd sample-nextjs13
+cd nextjs13-sample
 
 # Styling
 npm install classnames
